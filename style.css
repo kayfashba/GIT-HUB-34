@@ -1,0 +1,86 @@
+.age-img{
+    height: 600px;
+    width: 720px;
+}
+.chaqaloq{
+    background-image: url(./a69e6818cbe5cf0e64e6407ec5120449.jpg);
+    height: 600px;
+    width: 720px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+    box-shadow: 5px 5px 20px 5px black;
+    margin-top: 20px;
+}
+.bola{
+    background-image: url(./Мальчик\ крас.jpg);
+    height: 600px;
+    width: 720px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+    box-shadow: 5px 5px 20px 5px rgba(128, 128, 128, 0.555);
+    margin-top: 20px;
+}
+.osbirin{
+    background-image: url(./49ea0940e45faf436c2a7968fd8df4e4.jpg);
+    height: 600px;
+    width: 720px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+    box-shadow: 5px 5px 20px 5px rgba(128, 128, 128, 0.555);
+    margin-top: 20px;
+}
+.kattaodam{
+    background-image: url(./2153999597_huge.jpg);
+    height: 600px;
+    width: 720px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+    box-shadow: 5px 5px 20px 5px rgba(128, 128, 128, 0.555);
+    margin-top: 20px;
+}
+.kattaodam2{
+    background-image: url(./40272594.jpg);
+    height: 600px;
+    width: 720px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+    box-shadow: 5px 5px 20px 5px rgba(128, 128, 128, 0.555);
+    margin-top: 20px;
+}
+.chol{
+    background-image: url(./32035e083b527fe5f23d62d8c145a617.jpg);
+    height: 600px;
+    width: 720px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+    box-shadow: 5px 5px 20px 5px rgba(128, 128, 128, 0.555);
+    margin-top: 20px;
+}
+.oldingiz{
+    background-image: url(./_104211895_bookpagecommemorationamiens_st_acheul_carr_musulman_de_la_ncropole_nationale.jpg.webp);
+    height: 600px;
+    width: 720px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+    box-shadow: 5px 5px 20px 5px rgba(128, 128, 128, 0.555);
+    margin-top: 20px;
+}
+.btn{
+    border-radius: 20px;
+    background-color: black;
+    border: none;
+    color: white;
+    height: 30px;
+}
+input{
+    height: 25px;
+    border-radius: 10px;
+    color: black;
+}
